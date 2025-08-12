@@ -9,7 +9,7 @@ Consumo de API externa** (JSONPlaceholder)
 -Base de datos** SQL Server LocalDB
 - Clean Architecture** con repositorios y servicios
 - Documentación automática** con Swagger
-- nyección de dependencias
+- Inyección de dependencias
 
 Tecnologías Utilizadas
 
